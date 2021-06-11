@@ -24,7 +24,16 @@ c3 = c1*c2
 print (mul, c3)
 
 #div
-print(4/2)
+div = 3/4
+d1 = 3
+d2 = 4
+d3 = d1*d2
+print (div, d3)
 
 #power
 print(2**200)
+
+#modules
+print(5/2, 4/2)
+
+# https://github.com/HashtagLearning/Python
