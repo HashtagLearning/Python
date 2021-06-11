@@ -2,7 +2,6 @@
 git clone https://github.com/HashtagLearning/Python.git
 
 # fetch and pull (update the repo)
-cd ~/Downloads/Python/
 git fetch
 git pull
 
