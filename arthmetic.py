@@ -37,3 +37,7 @@ print(2**200)
 print(5/2, 4/2)
 
 # https://github.com/HashtagLearning/Python
+
+# how to get user input
+var = input("put your input:")
+print(var)
